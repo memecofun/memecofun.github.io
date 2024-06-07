@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<link rel="icon" type="image/png" href="../../images/favicon.png">
+<link rel="stylesheet" href="../../styles.css">
+</head>
+
+<Body>
+<h1>Woops! a 400 error!</h1>
+<p><img src="error.gif" height="100px" Width="100px" alt"ok... you got a error an a error screen"> Oh No You Got 400 error</p>
+</Body>
